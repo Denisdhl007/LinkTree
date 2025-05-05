@@ -1,0 +1,56 @@
+/* Polices neumorphiques */
+:root {
+  --font-brand: 'GeneralSans', sans-serif;
+  --font-main: 'Satoshi', sans-serif;
+  --font-title: 'Outfit', sans-serif;  /* Remplacé CodecPro par Outfit */
+  --font-alt: 'ClashDisplay', sans-serif;
+  --font-subtext: 'CabinetGrotesk', sans-serif;
+}
+
+@font-face {
+  font-family: 'Satoshi';
+  src: url('../assets/fonts/Satoshi-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Outfit';
+  src: url('../assets/fonts/Outfit-SemiBold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Outfit';
+  src: url('../assets/fonts/Outfit-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ClashDisplay';
+  src: url('../assets/fonts/ClashDisplay-Medium.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'GeneralSans';
+  src: url('../assets/fonts/GeneralSans-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CabinetGrotesk';
+  src: url('../assets/fonts/CabinetGrotesk-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

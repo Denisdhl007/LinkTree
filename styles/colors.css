@@ -1,0 +1,42 @@
+/*  Fichier contenant toutes les variables de couleurs pour ton site  */
+:root {
+    /* Couleurs principales */
+    --background: #e0e5ec;
+    --text-color: #2d3436;
+    --primary: #4a90e2;
+    --primary-dark: #3a7bca;
+    --primary-light: #6ba5e9;
+    
+    /* Couleurs d'alerte et de message */
+    --alert: #FF4800;
+    --alert-hover: #AD0707;
+    --message: #C2EBC4;
+    --message-hover: #9DD8A0;
+    
+    /* Couleurs générales */
+    --blk: #222222;
+    --wht: #FEFEFE;
+    
+    /* Ombres neumorphiques */
+    --shadow-light: #ffffff;
+    --shadow-dark: #a3b1c6;
+    --static-opacity: rgba(81, 82, 81, 0.17);
+    
+    /* Bordures */
+    --border-light: #a2bdc5 solid 0.5px;
+    
+    /* Effets et ombres */
+    --shadow-outset: 
+        8px 8px 16px var(--shadow-dark),
+        -8px -8px 16px var(--shadow-light);
+    --shadow-outset-medium: 
+        5px 5px 10px var(--shadow-dark),
+        -5px -5px 10px var(--shadow-light);
+    --shadow-inset: 
+        inset 3px 3px 6px var(--shadow-dark),
+        inset -3px -3px 6px var(--shadow-light);
+    
+    /* Transitions */
+    --transition-standard: all 0.3s ease-in-out;
+    --transition-smooth: all 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+}
