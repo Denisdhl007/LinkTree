@@ -9,7 +9,6 @@ Un clone personnalisé de LinkTree avec un design **neumorphique moderne**, anim
 - Responsive design adapté aux mobiles et tablettes
 - Respect des préférences d'accessibilité (`prefers-reduced-motion`)
 - Structure de code propre, modulaire et maintenable
-- Optimisations SEO de base (meta description, favicon)
 
 ## 🛠️ Technologies utilisées
 
