@@ -1,30 +1,27 @@
-# LinkTree Clone - Style Neumorphique
+# LinkTree de Denis - Style Neumorphique Moderne
 
-Un clone de LinkTree avec un design neumorphique moderne et des animations fluides.
+Un clone personnalisé de LinkTree avec un design **neumorphique moderne**, animations fluides et responsive design optimisé.
 
-## Caractéristiques
+## ✨ Caractéristiques
 
 - Design neumorphique avec ombres douces et effets 3D
-- Animation de porte coulissante verticale à l'ouverture
-- Affichage séquentiel des éléments pour une meilleure expérience utilisateur
-- Responsive design pour tous types d'appareils
-- Structure de code propre et maintainable
+- Animations d'entrée (slide, fade) et comportements fluides
+- Responsive design adapté aux mobiles et tablettes
+- Respect des préférences d'accessibilité (`prefers-reduced-motion`)
+- Structure de code propre, modulaire et maintenable
+- Optimisations SEO de base (meta description, favicon)
 
-## Technologies utilisées
+## 🛠️ Technologies utilisées
 
-- HTML5
+- HTML5 sémantique
 - CSS3 avec variables personnalisées
-- Métadonnées SEO optimisées
+- Animations CSS natives
 
-
-## Installation
+## 🚀 Installation rapide
 
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/votre-nom/linktree-neumorphic.git
-   ```
-2. Ouvrez le fichier `index.html` dans votre navigateur
-
+   git clone https://github.com/Denisdhl007/LinkTree
 
 ## Contribution
 
@@ -33,7 +30,6 @@ Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à
 ## Licence
 
 Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT).
-
 
 
 ## Structure du projet
