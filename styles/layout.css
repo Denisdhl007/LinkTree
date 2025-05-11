@@ -30,7 +30,7 @@
   --h-100: 100%;
 
   /* Quelques valeurs fixes utiles */
-  --w-container: min(90%, 1200px); /* conteneur principal responsive */
+  --w-container: min(90%, 1200px);
   --container-max-width: 500px;
   --container-padding: 3.5rem;
   --w-button: 4rem;
