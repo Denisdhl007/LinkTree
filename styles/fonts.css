@@ -1,9 +1,7 @@
 /* Polices neumorphiques */
 :root {
-  --font-brand: 'GeneralSans', sans-serif;
   --font-main: 'Satoshi', sans-serif;
   --font-title: 'Outfit', sans-serif;
-  --font-alt: 'ClashDisplay', sans-serif;
   --font-subtext: 'CabinetGrotesk', sans-serif;
 }
 
@@ -26,22 +24,6 @@
 @font-face {
   font-family: 'Outfit';
   src: url('../assets/fonts/Outfit-Regular.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'ClashDisplay';
-  src: url('../assets/fonts/ClashDisplay-Medium.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'GeneralSans';
-  src: url('../assets/fonts/GeneralSans-Regular.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
