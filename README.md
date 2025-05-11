@@ -25,6 +25,17 @@ Un clone de LinkTree avec un design neumorphique moderne et des animations fluid
    ```
 2. Ouvrez le fichier `index.html` dans votre navigateur
 
+
+## Contribution
+
+Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à proposer une pull request.
+
+## Licence
+
+Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT).
+
+
+
 ## Structure du projet
 
 ```
@@ -43,27 +54,16 @@ LinkTree
 │  │  └─ Satoshi-Regular.otf
 │  └─ images
 │     ├─ .DS_Store
-│     └─ denis-profile.png
+│     ├─ denis-profile.png
+│     └─ linktree.png
 ├─ index.html
 ├─ style.css
 └─ styles
    ├─ .DS_Store
    ├─ all_variables.css
    ├─ animations.css
-   ├─ boutons.css
    ├─ colors.css
    ├─ fonts.css
    └─ layout.css
 
 ```
-
-
-## Contribution
-
-Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à proposer une pull request.
-
-## Licence
-
-Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT).
-
-
